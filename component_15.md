@@ -1,1 +1,1 @@
-print heelo word
+print helo words
